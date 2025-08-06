@@ -46,7 +46,7 @@ El sistema está compuesto por tres contratos principales:
 ┌─────────────┐    ┌─────────────┐    ┌─────────────┐
 │  DappToken  │    │   LPToken   │    │  TokenFarm  │
 │             │    │             │    │             │
-│ (Recompensas)│    │ (Staking)   │    │ (Protocolo) │
+│(Recompensas)│    │ (Staking)   │    │ (Protocolo) │
 └─────────────┘    └─────────────┘    └─────────────┘
         ▲                   ▲                   │
         │                   │                   │
@@ -68,7 +68,7 @@ El sistema está compuesto por tres contratos principales:
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/token-farm.git
+git clone https://github.com/PaulRodriguezAsihama/TokenFarmLP.git
 cd token-farm
 ```
 
@@ -301,7 +301,7 @@ Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
 ## 📞 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - tu.email@ejemplo.com
+Paul Rodriguez - [@yawarinti](https://x.com/yawarinti) - yawarinti@gmail.com
 
 Link del Proyecto: [https://github.com/tu-usuario/token-farm](https://github.com/tu-usuario/token-farm)
 
